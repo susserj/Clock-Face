@@ -5,8 +5,8 @@ Published 2025/04/15
 
 The purpose of this repository is to allow readers of my book 
 
-Heirloom Project
-Traditional 
+Heirloom Project,
+Traditional, 
 Mission Style
 Wall Clock
 
