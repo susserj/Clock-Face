@@ -6,9 +6,7 @@ Published 2025/04/15
 The purpose of this repository is to allow readers of my book 
 
 Heirloom Project,
-Traditional, 
-Mission Style
-Wall Clock
+Traditional Mission Style Wall Clock
 
 To be able to freely download my clockface design rather than re-creatining
 if completely from scratch.
